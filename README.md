@@ -130,7 +130,7 @@ python3 payload.py --webshell --webshell-lang php --cmd-param exec
 python3 payload.py --webshell --webshell-lang asp --cmd-param cmd
 
 # JSP Webshell
-python3 500payload.py --webshell --webshell-lang jsp --cmd-param x
+python3 payload.py --webshell --webshell-lang jsp --cmd-param x
 
 # ASPX Webshell
 python3 payload.py --webshell --webshell-lang aspx --cmd-param command
